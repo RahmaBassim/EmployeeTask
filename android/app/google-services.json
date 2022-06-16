@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059426260713",
+    "project_id": "employeetask-a1f6b",
+    "storage_bucket": "employeetask-a1f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059426260713:android:2b61d36e05c175d6ab0278",
+        "android_client_info": {
+          "package_name": "com.example.tebiat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059426260713-pv75h0htv0gqotgb7a92nn5341ec4rj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXN73IONlmKZ_SR9iu-lKJJ8ry1zkzIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059426260713-pv75h0htv0gqotgb7a92nn5341ec4rj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
